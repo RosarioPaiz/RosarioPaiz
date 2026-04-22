@@ -15,8 +15,9 @@ me gusto mucho el modulo sobre las IA y lo estoy poniendo en practica, aprendi m
 - Python
 - Git y GitHub
 https://github.com/RosarioPaiz/RosarioPaiz/edit/main/README.md
-### 🚀 Tecnologías que estoy aprendiendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+## 💻 lo que quiero fortalecer
+
+- 💡 Lógica de programación
+- 🌐 Desarrollo web
+- 🐍 Python
